@@ -35,7 +35,6 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 - [x] **Timus** – 150+ solutions
 - [x] **POJ (Peking University)** – 100+ solutions
 - [x] **URI/BeeCrowd** – 200+ solutions
-- [x] **UVA** – 300+ solutions
 - [x] **E-Olymp** – 100+ solutions
 - [x] **A2OJ** – 150+ solutions
 - [x] **Google Kick Start** – 50+ solutions
