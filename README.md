@@ -28,7 +28,7 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [HackerEarth](https://www.hackerearth.com/) | 200+ | Multiple | 🟢 Active |
 | [CSES Problem Set](https://cses.fi/) | 200+ | C++, Python | 🟢 Active |
 | [LeetCode](https://leetcode.com/) | *Separate Repository* | - | ⚪ Excluded |
-| [Project Euler](https://https://projecteuler.net//) | 900+ | Numeric Answers | - | 🟢 Active |
+| [Project Euler](https://https://projecteuler.net//) | 900+ | Numeric Answers | 🟢 Active |
 
 ### Additional Platforms
 - [x] **Kattis** – 150+ solutions
