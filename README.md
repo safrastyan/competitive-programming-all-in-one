@@ -22,7 +22,7 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [Codeforces](https://codeforces.com/) | 1000+ | C++, Python, Java | 🟢 Active |
 | [CodeChef](https://www.codechef.com/) | 500+ | C++, Python | 🟢 Active |
 | [AtCoder](https://atcoder.jp/) | 400+ | C++, Python | 🟢 Active |
-| [SPOJ](https://www.spoj.com/) | 300+ | C++, Python | 🟢 Active |
+| [SPOJ](https://www.spoj.com/) | 700+ | C++, Python | 🟢 Active |
 | [UVa Online Judge](https://onlinejudge.org/) | 500+ | C++, Java | 🟡 Ongoing |
 | [HackerRank](https://www.hackerrank.com/) | 300+ | Multiple | 🟢 Active |
 | [HackerEarth](https://www.hackerearth.com/) | 200+ | Multiple | 🟢 Active |
