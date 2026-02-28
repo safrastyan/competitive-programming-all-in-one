@@ -41,7 +41,6 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 - [x] **Google Kick Start** – 50+ solutions
 - [x] **Facebook Hacker Cup** – 40+ solutions
 - [x] **ICPC Archive** – 100+ solutions
-- [x] **Project Euler** – 100+ solutions
 - [x] **Advent of Code** – 150+ solutions
 - [x] **Coding Ninjas** – 200+ solutions
 - [x] **GeeksforGeeks** – 300+ solutions
