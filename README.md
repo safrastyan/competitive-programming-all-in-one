@@ -19,16 +19,16 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 ### Major Platforms
 | Platform | Problems Solved | Languages | Status |
 |----------|-----------------|-----------|--------|
-| [Codeforces](https://codeforces.com/) | 1000+ | C++, Python, Java | 🟢 Active |
 | [CodeChef](https://www.codechef.com/) | 500+ | C++, Python | 🟢 Active |
 | [AtCoder](https://atcoder.jp/) | 400+ | C++, Python | 🟢 Active |
-| [SPOJ](https://www.spoj.com/) | 700+ | C++, Python | 🟢 Active |
-| [UVa Online Judge](https://onlinejudge.org/) | 500+ | C++, Java | 🟡 Ongoing |
+| [SPOJ](https://www.spoj.com/) | 700+ | C++ | 🟢 Active |
+| [UVa Online Judge](https://onlinejudge.org/) | 500+ | GO | 🟡 Ongoing |
 | [HackerRank](https://www.hackerrank.com/) | 300+ | Multiple | 🟢 Active |
 | [HackerEarth](https://www.hackerearth.com/) | 100+ | Python | 🟢 Active |
 | [CSES Problem Set](https://cses.fi/) | 200+ | C++, Python | 🟢 Active |
 | [LeetCode](https://leetcode.com/) | *Separate Repository* | - | ⚪ Excluded |
 | [Project Euler](https://https://projecteuler.net//) | 900+ | Numeric Answers | 🟢 Active |
+| [Codeforces](https://codeforces.com/) | 200+ | C++ | 🟢 Active |
 
 ### Additional Platforms
 - [x] **Kattis** – 150+ solutions
@@ -45,6 +45,7 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 - [x] **Advent of Code** – 150+ solutions
 - [x] **Coding Ninjas** – 200+ solutions
 - [x] **GeeksforGeeks** – 300+ solutions
+- [x] **USACO Gateway** – 300+ solutions
 - [ ] **And counting...**
 
 ---
