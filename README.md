@@ -1,14 +1,6 @@
 # 🚀 Competitive Programming All In One Solutions Vault
 
-<div align="center">
 
-**The Ultimate Collection of Competitive Programming Solutions from Every Major Online Judge**
-
-[🌐 Visit Website](#) • [📖 Browse Solutions](#-platforms-covered) • [🤝 Contribute](#-contributing) • [💬 Join Discord](#)
-
-</div>
-
----
 
 ## 📋 Overview
 
@@ -56,6 +48,10 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 - [ ] **And counting...**
 
 ---
+
+## 📋 Overview
+
+Each Individual Folder contains the license for that specific folder's data. 
 
 # Donations
 
