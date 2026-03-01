@@ -17,6 +17,7 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 ## 🎯 Platforms Covered
 
 ### Major Platforms
+
 | Platform | Problems Solved | Languages | Status |
 |----------|-----------------|-----------|--------|
 | [SPOJ](https://www.spoj.com/) | 700+ | C++ | 🟢 Active |
@@ -31,23 +32,8 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [Kattis](https://open.kattis.com//) | 200+ | Multiple | 🟢 Active |
 | [LightOJ](https://lightoj.com///) | 200+ | C++, C | 🟢 Active |
 | [ACM Timus](https://acm.timus.ru/) | 200+ | Multiple | 🟢 Active |
-
-
 | [CSES Problem Set](https://cses.fi/) | 200+ | C++ | 🟢 Active |
 
-
-### Additional Platforms
-- [x] **POJ (Peking University)** – 100+ solutions
-- [x] **URI/BeeCrowd** – 200+ solutions
-- [x] **E-Olymp** – 100+ solutions
-- [x] **A2OJ** – 150+ solutions
-- [x] **Google Kick Start** – 50+ solutions
-- [x] **Facebook Hacker Cup** – 40+ solutions
-- [x] **ICPC Archive** – 100+ solutions
-- [x] **Advent of Code** – 150+ solutions
-- [x] **Coding Ninjas** – 200+ solutions
-- [x] **GeeksforGeeks** – 300+ solutions
-- [x] **USACO Gateway** – 300+ solutions
 
 ---
 
