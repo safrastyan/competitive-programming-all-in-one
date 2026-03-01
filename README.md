@@ -29,14 +29,13 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [Project Euler](https://https://projecteuler.net//) | 900+ | Numeric Answers | 🟢 Active |
 | [Codeforces](https://codeforces.com/) | 200+ | C++ | 🟢 Active |
 | [Kattis](https://open.kattis.com//) | 200+ | Multiple | 🟢 Active |
+| [LightOJ](https://lightoj.com///) | 200+ | C++, C | 🟢 Active |
 
 
 | [CSES Problem Set](https://cses.fi/) | 200+ | C++ | 🟢 Active |
 
 
 ### Additional Platforms
-- [x] **Kattis** – 150+ solutions
-- [x] **LightOJ** – 100+ solutions
 - [x] **Timus** – 150+ solutions
 - [x] **POJ (Peking University)** – 100+ solutions
 - [x] **URI/BeeCrowd** – 200+ solutions
