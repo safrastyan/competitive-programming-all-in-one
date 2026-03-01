@@ -28,7 +28,6 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [LeetCode](https://leetcode.com/) | *Separate Repository* | - | ⚪ Excluded |
 | [Project Euler](https://https://projecteuler.net//) | 900+ | Numeric Answers | 🟢 Active |
 | [Codeforces](https://codeforces.com/) | 200+ | C++ | 🟢 Active |
-
 | [Kattis](https://open.kattis.com//) | 200+ | Multiple | 🟢 Active |
 
 
