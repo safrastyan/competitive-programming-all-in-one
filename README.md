@@ -23,7 +23,7 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [UVa Online Judge](https://onlinejudge.org/) | 500+ | GO | 🟡 Ongoing |
 | [HackerRank](https://www.hackerrank.com/) | 300+ | Multiple | 🟢 Active |
 | [CodeChef](https://www.codechef.com/) | 500+ | Multiple | 🟢 Active |
-| [AtCoder](https://atcoder.jp/) | 400+ | C++, Python | 🟢 Active |
+| [AtCoder](https://atcoder.jp/) | 400+ | Multiple | 🟢 Active |
 | [HackerEarth](https://www.hackerearth.com/) | 100+ | Python | 🟢 Active |
 | [CSES Problem Set](https://cses.fi/) | 200+ | C++, Python | 🟢 Active |
 | [LeetCode](https://leetcode.com/) | *Separate Repository* | - | ⚪ Excluded |
