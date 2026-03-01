@@ -26,7 +26,7 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [CodeChef](https://www.codechef.com/) | 500+ | Multiple | 🟢 Active |
 | [AtCoder](https://atcoder.jp/) | 400+ | Multiple | 🟢 Active |
 | [HackerEarth](https://www.hackerearth.com/) | 100+ | Python | 🟢 Active |
-| [LeetCode](https://leetcode.com/) | *Separate Repository* | - | ⚪ Excluded |
+| [LeetCode](https://leetcode.com/) | *Separate Repository* | - | [Separate Repo](https://github.com/safrastyan/leetcode-megapack) |
 | [Project Euler](https://https://projecteuler.net//) | 900+ | Numeric Answers | 🟢 Active |
 | [Codeforces](https://codeforces.com/) | 200+ | C++ | 🟢 Active |
 | [Kattis](https://open.kattis.com//) | 200+ | Multiple | 🟢 Active |
