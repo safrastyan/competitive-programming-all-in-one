@@ -30,13 +30,13 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [Codeforces](https://codeforces.com/) | 200+ | C++ | 🟢 Active |
 | [Kattis](https://open.kattis.com//) | 200+ | Multiple | 🟢 Active |
 | [LightOJ](https://lightoj.com///) | 200+ | C++, C | 🟢 Active |
+| [ACM Timus](https://acm.timus.ru/) | 200+ | Multiple | 🟢 Active |
 
 
 | [CSES Problem Set](https://cses.fi/) | 200+ | C++ | 🟢 Active |
 
 
 ### Additional Platforms
-- [x] **Timus** – 150+ solutions
 - [x] **POJ (Peking University)** – 100+ solutions
 - [x] **URI/BeeCrowd** – 200+ solutions
 - [x] **E-Olymp** – 100+ solutions
@@ -48,7 +48,6 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 - [x] **Coding Ninjas** – 200+ solutions
 - [x] **GeeksforGeeks** – 300+ solutions
 - [x] **USACO Gateway** – 300+ solutions
-- [ ] **And counting...**
 
 ---
 
