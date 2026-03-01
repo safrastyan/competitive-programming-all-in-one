@@ -25,7 +25,7 @@ Welcome to the **Competitive Programming Solutions Vault** – the most comprehe
 | [CodeChef](https://www.codechef.com/) | 500+ | Multiple | 🟢 Active |
 | [AtCoder](https://atcoder.jp/) | 400+ | Multiple | 🟢 Active |
 | [HackerEarth](https://www.hackerearth.com/) | 100+ | Python | 🟢 Active |
-| [CSES Problem Set](https://cses.fi/) | 200+ | C++, Python | 🟢 Active |
+| [CSES Problem Set](https://cses.fi/) | 200+ | C++ | 🟢 Active |
 | [LeetCode](https://leetcode.com/) | *Separate Repository* | - | ⚪ Excluded |
 | [Project Euler](https://https://projecteuler.net//) | 900+ | Numeric Answers | 🟢 Active |
 | [Codeforces](https://codeforces.com/) | 200+ | C++ | 🟢 Active |
